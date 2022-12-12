@@ -1,6 +1,7 @@
 # Samuel Vieira - Desafio técnico Diário Associado
 
 <h1>Para inicializar o projeto , abra o terminal no diretório desejado e cole os seguintes comandos:</h1>
+
 ```
 git clone https://github.com/samuel-vieira-dev/diarios-associados.git
 ```
