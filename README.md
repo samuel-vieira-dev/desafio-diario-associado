@@ -14,6 +14,7 @@ cd diarios-associados/client
 yarn install
 ```
 
+```
 yarn start
 ```
 
