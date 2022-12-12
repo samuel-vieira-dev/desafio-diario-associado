@@ -4,27 +4,36 @@
 ```
 git clone https://github.com/samuel-vieira-dev/diarios-associados.git
 ```
+
 ```
 cd diarios-associados/client
 ```
+
 ```
 yarn install
 ```
+
 yarn start
 ```
+
 <h1>Depois disso a aplicação em <b>React</b> vai abrir. Logo após, abra outro terminal e cole os seguintes comandos:</h1>
+
 ```
 cd diarios-associados/server
 ```
+
 ```
 python -m venv .venv
 ```
+
 ```
 .venv/Scripts/Activate
 ```
+
 ```
 pip install -r requirements.txt
 ```
+
 ```
 python app.py
 ```
