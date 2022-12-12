@@ -7,7 +7,7 @@ git clone https://github.com/samuel-vieira-dev/desafio-diario-associado.git
 ```
 
 ```
-cd diarios-associados/client
+cd desafio-diario-associado/client
 ```
 
 ```
@@ -21,7 +21,7 @@ yarn start
 <h1>Depois disso a aplicação em <b>React</b> vai abrir. Logo após, abra outro terminal e cole os seguintes comandos:</h1>
 
 ```
-cd diarios-associados/server
+cd desafio-diario-associado/client
 ```
 
 ```
