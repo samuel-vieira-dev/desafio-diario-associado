@@ -21,7 +21,7 @@ yarn start
 <h1>Depois disso a aplicação em <b>React</b> vai abrir. Logo após, abra outro terminal e cole os seguintes comandos:</h1>
 
 ```
-cd desafio-diario-associado/client
+cd desafio-diario-associado/server
 ```
 
 ```
