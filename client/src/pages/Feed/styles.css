@@ -1,0 +1,17 @@
+.MainGrid {
+    /* display: grid;
+
+    grid-template-areas: "firstColumn secondColumn";
+    grid-template-columns: 614px 293px;
+
+    grid-gap: 35px; */
+
+    /* max-width: 957px; */
+    max-width: 500px;
+    margin: 100px auto;
+}
+
+.createPostButton{
+    text-align: center;
+    padding: 10px 0px 30px 0px;
+}
