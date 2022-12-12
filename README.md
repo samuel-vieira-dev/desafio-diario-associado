@@ -3,7 +3,7 @@
 <h1>Para inicializar o projeto , abra o terminal no diretório desejado e cole os seguintes comandos:</h1>
 
 ```
-git clone https://github.com/samuel-vieira-dev/diarios-associados.git
+git clone https://github.com/samuel-vieira-dev/desafio-diario-associado.git
 ```
 
 ```
@@ -40,12 +40,12 @@ pip install -r requirements.txt
 python app.py
 ```
 
-<h3>Rotas criadas</h3>
-
 # Coleção para utilizar no Postman disponibilizada
 ```
 Nome do arquivo: Routes.postman_collection.json
 ```
+
+<h3>Rotas criadas</h3>
 
 POST - http://127.0.0.1:5000/register JSON: { "username":"teste", "password":"teste" }
 POST - http://127.0.0.1:5000/login JSON: { "username":"teste", "password":"teste" }
